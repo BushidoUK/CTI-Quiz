@@ -58,4 +58,4 @@
 | koodous[.]com/apks/d52f76a311d7bd7a588bb287fb851bada34e7063ac5c83b9bc348251f02878a5 | |
 ```
 ```
-For the Answers got to [TO DO]
+For the Answers message @BushidoToken on Twitter
