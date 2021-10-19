@@ -47,7 +47,7 @@
 | Group X - created a backdoor that used TOR to forward traffic from to local Ports 3389 (RDP), 139 (Netbios), and 445 (SMB) | |
 ```
 ```
-| URL| Usint OSINT, describe what is happening in the given scenario |
+| URL| Use OSINT and describe the scenario |
 | --- | --- |
 | app[.]any[.]run/tasks/70259ce5-e073-4c00-a10d-08b26bed770d/ | |
 | app[.]any[.]run/tasks/78393e80-d0e4-4dd2-82ba-9296f12b544a/ | |
