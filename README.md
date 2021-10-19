@@ -58,4 +58,5 @@
 | koodous[.]com/apks/d52f76a311d7bd7a588bb287fb851bada34e7063ac5c83b9bc348251f02878a5 | |
 ```
 ```
-Answers are available [here]([https://anonfiles.com/VdIbY6O8u1/CTI_Quiz_Answers_xlsx) message @BushidoToken on Twitter for the password
+
+Answers are available [here](https://anonfiles.com/VdIbY6O8u1/CTI_Quiz_Answers_xlsx) message @BushidoToken on Twitter for the password
