@@ -1,10 +1,11 @@
 ## CTI-Quiz
 
-### `Practice CTI Quiz`
+### Practice CTI Quiz
 
 #### 4 sections of CTI Questions that cover File Triage, Network Triage, Mitre ATT&CK TTPs, and OSINT Analysis
-```
-```
+
+`File Triage`
+
 | File Hash | File Contents | Function | Verdict | Comment |
 | --- | --- | --- | --- |  --- |
 | ec9f9bdd04f17a36a860c946a9468ad931efb5ab3ba1dcb7292f965043c445aa | | | | | 
@@ -17,8 +18,9 @@
 | 329b92fd43004ccac98fba9cea61cfdffefbac04982af76958a13b85780c3301 | | | | | 
 | 963b55acc8c566876364716d5aafa353995812a8 | | | | | 
 |  534a7ea9c67bab3e8f2d41977bf43d41dfe951cf | | | | | 
-```
-```
+
+`Network Triage`
+
 | IOC | ISP | Malware | Function | Verdict | Comment |
 | --- | --- | --- | --- |  --- | --- |
 | 88.150.240.129 | | | | | 
@@ -31,8 +33,9 @@
 | avaddongun7rngel.onion | | | | | 
 | 23.220.206.73 | | | | | 
 | 151.101.228.144  | | | | |
-```
-```
+
+`Mitre ATT&CK TTPs`
+
 | Procedure | Technique | Tactic |
 | --- | --- | --- |
 | Group I - has used exploits to increase their levels of rights and privileges | |
@@ -45,8 +48,9 @@
 | Group VIII - can encrypt files on victim systems and demands a ransom to decrypt the files | |
 | Group IX - has used lures to get users to click links in emails and attachments | |
 | Group X - created a backdoor that used TOR to forward traffic from to local Ports 3389 (RDP), 139 (Netbios), and 445 (SMB) | |
-```
-```
+
+`OSINT Analysis`
+
 | URL| Use OSINT and describe the scenario |
 | --- | --- |
 | app[.]any[.]run/tasks/70259ce5-e073-4c00-a10d-08b26bed770d/ | |
@@ -56,7 +60,5 @@
 | virustotal[.]com/gui/file/0f5d7e6dfdd62c83eb096ba193b5ae394001bac036745495674156ead6557589/details | |
 | virustotal[.]com/gui/file/b5bc1aedcc94da1f11fb7bd541d50b6a4aa37147d86f02998b205f2b60240013/detection | |
 | koodous[.]com/apks/d52f76a311d7bd7a588bb287fb851bada34e7063ac5c83b9bc348251f02878a5 | |
-```
-```
 
 Answers are available [here](https://anonfiles.com/VdIbY6O8u1/CTI_Quiz_Answers_xlsx) message @BushidoToken on Twitter for the password
