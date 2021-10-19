@@ -1,10 +1,8 @@
 ## CTI-Quiz
 
-### Practice CTI Quiz
+> #### 4 sections of CTI Questions that cover File Triage, Network Triage, Mitre ATT&CK TTPs, and OSINT Analysis
 
-#### 4 sections of CTI Questions that cover File Triage, Network Triage, Mitre ATT&CK TTPs, and OSINT Analysis
-
-`File Triage`
+### `File Triage`
 
 | File Hash | File Contents | Function | Verdict | Comment |
 | --- | --- | --- | --- |  --- |
@@ -19,7 +17,7 @@
 | 963b55acc8c566876364716d5aafa353995812a8 | | | | | 
 |  534a7ea9c67bab3e8f2d41977bf43d41dfe951cf | | | | | 
 
-`Network Triage`
+### `Network Triage`
 
 | IOC | ISP | Malware | Function | Verdict | Comment |
 | --- | --- | --- | --- |  --- | --- |
@@ -34,7 +32,7 @@
 | 23.220.206.73 | | | | | 
 | 151.101.228.144  | | | | |
 
-`Mitre ATT&CK TTPs`
+### `Mitre ATT&CK TTPs`
 
 | Procedure | Technique | Tactic |
 | --- | --- | --- |
@@ -49,7 +47,7 @@
 | Group IX - has used lures to get users to click links in emails and attachments | |
 | Group X - created a backdoor that used TOR to forward traffic from to local Ports 3389 (RDP), 139 (Netbios), and 445 (SMB) | |
 
-`OSINT Analysis`
+### `OSINT Analysis`
 
 | URL| Use OSINT and describe the scenario |
 | --- | --- |
