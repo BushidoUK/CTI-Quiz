@@ -1,6 +1,6 @@
 ## CTI-Quiz
 
-> #### 4 sections of CTI Questions that cover File Triage, Network Triage, Mitre ATT&CK TTPs, and OSINT Analysis
+> #### 4 sections of CTI Questions that cover File Triage, Network Triage, Mitre ATT&CK TTPs, and OSINT Research
 
 ### `File Triage`
 
@@ -47,7 +47,7 @@
 | Group IX - has used lures to get users to click links in emails and attachments | |
 | Group X - created a backdoor that used TOR to forward traffic from to local Ports 3389 (RDP), 139 (Netbios), and 445 (SMB) | |
 
-### `OSINT Analysis`
+### `OSINT Research`
 
 | URL| Use OSINT and describe the scenario |
 | --- | --- |
