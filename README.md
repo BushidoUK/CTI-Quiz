@@ -59,4 +59,4 @@
 | virustotal[.]com/gui/file/b5bc1aedcc94da1f11fb7bd541d50b6a4aa37147d86f02998b205f2b60240013/detection | |
 | koodous[.]com/apks/d52f76a311d7bd7a588bb287fb851bada34e7063ac5c83b9bc348251f02878a5 | |
 
-Answers are available [here](https://anonfiles.com/n5V4ddP1ub/CTI_Quiz_Answers_pdf) message @BushidoToken on Twitter for the password
+Answers are available [here](https://anonfiles.com/n5V4ddP1ub/CTI_Quiz_Answers_pdf) message [@BushidoToken](https://twitter.com/BushidoToken) for the password
