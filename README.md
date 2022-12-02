@@ -2,6 +2,8 @@
 
 #### 4 sections of CTI Questions that cover File Triage, Network Triage, Mitre ATT&CK TTPs, and OSINT Research
 
+- The first one is done for you 🙂
+
 ### `File Triage`
 
 | File Hash | File Contents | Function | Verdict | Comment |
