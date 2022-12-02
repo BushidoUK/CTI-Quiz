@@ -6,7 +6,7 @@
 
 | File Hash | File Contents | Function | Verdict | Comment |
 | --- | --- | --- | --- |  --- |
-| ec9f9bdd04f17a36a860c946a9468ad931efb5ab3ba1dcb7292f965043c445aa | | | | | 
+| ec9f9bdd04f17a36a860c946a9468ad931efb5ab3ba1dcb7292f965043c445aa | Agent Tesla | Infostealer | Malicious | Commodity crimeware tool | 
 | 6a7b7147fea63d77368c73cef205eb75d16ef209a246b05698358a28fd16e502 | | | | | 
 | cebaf2bfcf1f2297d18e4d35efb2597adc334513 | | | | | 
 | 4b80c7e7499d3cdddb4a6eba8d200c9dfa1a191d29b1c4335932c676157767d1 | | | | | 
@@ -21,7 +21,7 @@
 
 | IOC | ISP | Malware | Function | Verdict | Comment |
 | --- | --- | --- | --- |  --- | --- |
-| 88.150.240.129 | | | | | 
+| 88.150.240.129 | IOMART | Trickbot | C&C | Malicious |  Botnet, linked to WizardSpider and Conti |
 | 134.209.182.12 | | | | | 
 | files.slack.com | | | | | 
 | cdn.discordapp.com | | | | | 
@@ -36,7 +36,7 @@
 
 | Procedure | Technique | Tactic |
 | --- | --- | --- |
-| Group I - has used exploits to increase their levels of rights and privileges | |
+| Group I - has used exploits to increase their levels of rights and privileges | Exploitation for Privilege Escalation | Privilege Escalation |
 | Group II - has used a modified TeamViewer client to remotely control compromised devices | |
 | Group III - distributed NotPetya ransomware by compromising the legitimate Ukrainian accounting software M.E.Doc | |
 | Group IV - installs VNC server software that executes through rundll32 | |
@@ -51,7 +51,7 @@
 
 | URL| Use OSINT and describe the scenario |
 | --- | --- |
-| app[.]any[.]run/tasks/70259ce5-e073-4c00-a10d-08b26bed770d/ | |
+| app[.]any[.]run/tasks/70259ce5-e073-4c00-a10d-08b26bed770d/ | Macro-enabled XLS doc uses mshta.exe to download a payload (GET request for a PHP file) from a compromised site (Dridex) |
 | app[.]any[.]run/tasks/78393e80-d0e4-4dd2-82ba-9296f12b544a/ | |
 | urlscan[.]io/result/163c61e0-e31e-4825-a975-4486c535359d/ | |
 | urlscan[.]io/result/48a52073-14e2-41a5-aa6c-1fa79d6351e6/ | |
