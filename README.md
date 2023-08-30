@@ -53,7 +53,7 @@
 
 | URL| Use OSINT and describe the scenario |
 | --- | --- |
-| app[.]any[.]run/tasks/70259ce5-e073-4c00-a10d-08b26bed770d/ | Macro-enabled XLS doc uses mshta.exe to download a payload (GET request for a PHP file) from a compromised site (Dridex) |
+| app[.]any[.]run/tasks/70259ce5-e073-4c00-a10d-08b26bed770d/ | Dridex XLS macro doc uses mshta.exe to download a payload |
 | app[.]any[.]run/tasks/78393e80-d0e4-4dd2-82ba-9296f12b544a/ | |
 | urlscan[.]io/result/163c61e0-e31e-4825-a975-4486c535359d/ | |
 | urlscan[.]io/result/48a52073-14e2-41a5-aa6c-1fa79d6351e6/ | |
