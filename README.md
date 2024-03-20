@@ -1,8 +1,14 @@
-## CTI-Quiz
+## CTI Research Quiz
 
-#### 4 sections of CTI Questions that cover File Triage, Network Triage, Mitre ATT&CK TTPs, and OSINT Research
+### 4 sections of CTI Research Questions
+- These will cover core competencies of CTI work:
+  - File Triage
+  - Network Triage
+  - Mitre ATT&CK TTPs
+  - OSINT Research
 
-- The first one is done for you 🙂
+- The first question is done for you as an example of how the answers should look 🙂
+- There is a PDF (see below) containing the answers. Decrypt it with the password **after** you've had a go at the quiz 📝
 
 ### `File Triage`
 
